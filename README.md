@@ -4,4 +4,5 @@ A messenger application that pairs you with users that are similar or compatible
 
 # Team
 **Back-End** Lauren, Ethan
+
 **Front-End** Courtney, Micayla, Nichole, Andrew
